@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(gh auth status:*)",
+      "Bash(git ls-remote:*)",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project status)",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project init:*)",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project remote add origin https://github.com/rohangandotra18/Aptoswasthy.git)",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project config user.name \"rohangandotra18\")",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project config user.email \"rohangandotra18@users.noreply.github.com\")",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project add .)",
+      "Bash(git -C /Users/rohangandotra/Downloads/aptoswasthy-project commit -m \"$\\(cat <<''EOF''\nUpdate project files from local aptoswasthy-project\n\nCo-Authored-By: Claude \\(claude-sonnet-4-6\\) <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}

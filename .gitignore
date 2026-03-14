@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+
+# Backend
+backend/node_modules/
+backend/aptoswasthy.db
+backend/.env
