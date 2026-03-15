@@ -49,6 +49,20 @@ node server.js
 
 Runs at `http://localhost:3001`
 
+### Additionally
+
+# 1. Clone the repo
+git clone https://github.com/rohangandotra18/Aptoswasthy.git
+
+# 2. Go into the folder
+cd Aptoswasthy
+
+# 3. Install dependencies
+npm install
+
+# 4. Run it
+npm run dev
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
